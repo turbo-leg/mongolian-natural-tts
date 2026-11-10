@@ -1,0 +1,14 @@
+{
+  "lines": {
+    "hook": "Эхний хичээл дээрээ ирцээ шууд бүртгүүлмээр байна уу? Ердөө тавхан алхам.",
+    "explain": "Код чинь гучин секунд тутамд солигддог. Тэгэхээр найзын чинь явуулсан зураг уншихгүй.",
+    "question": "Тэгэхээр x, игрек хоёрыг заавал тус тусад нь олох ёстой гэж үү?"
+  },
+  "tags": [
+    ["none", ""],
+    ["upbeat", "[upbeat, slightly faster]"],
+    ["excited", "[excited]"],
+    ["secret", "[playfully, like sharing a secret]"],
+    ["warm", "[warm, friendly teacher voice]"]
+  ]
+}
